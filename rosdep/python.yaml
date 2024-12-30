@@ -10755,6 +10755,10 @@ rpy2:
   gentoo: [=dev-python/rpy-2*]
   opensuse: [python3-rpy2]
   ubuntu: [python-rpy2]
+spatialmath-python-pip:
+  ubuntu:
+    pip:
+      packages: [spatialmath-python]
 sphinxcontrib-bibtex-pip:
   debian:
     pip:
