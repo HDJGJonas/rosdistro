@@ -10725,6 +10725,10 @@ quadprog-pip:
     pip: [quadprog]
   ubuntu:
     pip: [quadprog]
+roboticstoolbox-python-pip:
+  ubuntu:
+    pip:
+      packages: [roboticstoolbox-python]
 rosbag-metadata-pip:
   debian:
     pip:
